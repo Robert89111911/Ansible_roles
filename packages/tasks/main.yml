@@ -2,3 +2,4 @@
 
 - include_tasks: htop.yml
 - include_tasks: net-tools.yml
+- include_tasks: python3-pip.yml
